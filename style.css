@@ -26,7 +26,6 @@ body{
 .container{
     max-width: 1440px;
     height: 850px;
-    border: 1px solid black;
     margin: auto;
     background-image: url(images/bg-bottom.svg), url(images/bg-top.svg);
     background-repeat: no-repeat;
@@ -51,7 +50,6 @@ body{
 }
 
 .switch-container{
-    border: 1px solid black;
     height: 5em;
     display: flex;
     align-items: center;
@@ -98,7 +96,6 @@ body{
 /*-----------------------------------------------------------------------------*/
 
 .main-container{
-    border: 1px solid red;
     height: 65%;
     display: flex;
     justify-content: center;
@@ -106,7 +103,6 @@ body{
 }
 
 .card{
-    border: 1px solid black;
     text-align: center;
     padding: 2em;
     width: 33%;
@@ -218,7 +214,6 @@ body{
     }
 
     .card{
-        border: 1px solid black;
         text-align: center;
         padding: 1em;
         width: 100%;
