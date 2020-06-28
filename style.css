@@ -188,7 +188,7 @@ body{
 .primary-learn-more:hover{
     background: none;
     color: var(--very-light-grayish-blue);
-    border: 1px solid var(--very-light-grayish-blue);;
+    border: 1px solid var(--very-light-grayish-blue);
 }
 
 .attribution{
